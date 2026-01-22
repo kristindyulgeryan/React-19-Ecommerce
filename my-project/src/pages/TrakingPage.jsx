@@ -1,5 +1,6 @@
 import Header from "../components/Header.jsx";
-import "./tracking.css";
+import "./Tracking.css";
+
 const TrackingPage = () => {
   return (
     <>
